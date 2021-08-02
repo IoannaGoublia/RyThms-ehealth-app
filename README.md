@@ -1,4 +1,4 @@
-# RyThms-ehealth-app
+# RyThms-ehealth-app(IoT)
 
 Τηε project contains a sensor device and a web app and was developed with a mate.
 The web app gives the real time health situation of the user in the map with colour 
