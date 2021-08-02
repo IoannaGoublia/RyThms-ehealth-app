@@ -1,5 +1,10 @@
 # RyThms-ehealth-app
 
+Τηε project contains a sensor device and a web app and was developed with a mate.
+The web app gives the real time health situation of the user in the map with colour 
+marker in average the health situation. Also the user can see anonymous the other
+user’s markers of his region
+
 https://www.youtube.com/watch?v=oOX6XIdKTc4
 
 ![image](https://user-images.githubusercontent.com/87852076/127890314-87785338-32b9-47cc-9529-dba7bceb32ed.png)
